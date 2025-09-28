@@ -39,12 +39,19 @@ Aluno: Vinícius Oliveira Litran Andrade.
 
 ## 📂 Estrutura de Pastas
 ├── dataset_augmented/ # Dataset (PNG + XML no formato Pascal VOC)
+
 ├── teste/ # Pasta com imagens de teste (.png)
+
 ├── output/ # Saídas (modelos, predições e relatórios)
+
 │ ├── epochs/ # Checkpoints por época
+
 │ ├── prediction.png # Imagem anotada
+
 │ ├── prediction.json # Predições em JSON
+
 │ └── stride_report.json # Relatório STRIDE final
+
 └── notebook.ipynb # Notebook principal do projeto
 
 ---
