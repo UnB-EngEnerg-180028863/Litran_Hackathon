@@ -124,6 +124,9 @@ Relatório STRIDE:
   ]
 }
 
+
+---
+
 🔐 Metodologia STRIDE
 
 S: Spoofing (Falsificação de Identidade)
@@ -139,6 +142,8 @@ D: Denial of Service (Negação de Serviço)
 E: Elevation of Privilege (Elevação de Privilégios)
 
 Cada componente identificado é mapeado para uma ou mais categorias e recebe vulnerabilidades e contramedidas específicas.
+
+---
 
 📽️ Entregáveis
 
