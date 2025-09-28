@@ -5,6 +5,7 @@ Este projeto implementa uma solução de **modelagem de ameaças automatizada** 
 A solução detecta automaticamente os **componentes do diagrama** (usuários, servidores, bancos de dados, APIs, etc.) e gera um **relatório de ameaças STRIDE** com vulnerabilidades e contramedidas.
 
 O desenvolvimento foi feito como parte do **Hackathon IADT (FIAP)**, com foco em comprovar a viabilidade do uso de **Inteligência Artificial** para análise de arquiteturas de sistemas.
+
 Aluno: Vinícius Oliveira Litran Andrade.
 ---
 
