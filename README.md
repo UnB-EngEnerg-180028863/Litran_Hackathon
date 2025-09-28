@@ -67,16 +67,16 @@ Instale dependências:
 
 pip install torch torchvision opencv-python tqdm pillow
 
-2. Preparar Dataset
+### 2. Preparar Dataset
 
 Coloque seu dataset anotado em dataset_augmented/ (arquivos .png + .xml).
 
-3. Rodar Notebook
+### 3. Rodar Notebook
 
 Abra e execute o notebook.ipynb no Jupyter, ou rode como script:
 python notebook.py
 
-4. Predição de Teste
+### 4. Predição de Teste
 
 Coloque ao menos uma imagem .png na pasta teste/.
 A saída incluirá:
