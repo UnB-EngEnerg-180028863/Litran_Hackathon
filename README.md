@@ -149,6 +149,8 @@ Cada componente identificado é mapeado para uma ou mais categorias e recebe vul
 
 Notebook completo (.ipynb) com o pipeline. (Litran_Hackathon.ipynb)
 
+Link youtube: https://www.youtube.com/watch?v=NbDfLljXrNQ
+
 README.md (este documento).
 
 Vídeo (até 15 min) demonstrando a solução (execução e explicação).
